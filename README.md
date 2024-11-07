@@ -1,4 +1,4 @@
-Creie esse projeto como hobby nas férias
+#Creie esse projeto como hobby nas férias
 
 Utilizo Java na criação dele.
 Ele consiste na criação de um banco com suas funções principais:
@@ -9,3 +9,4 @@ Ele consiste na criação de um banco com suas funções principais:
 -render juros.
 -impostos.
 -visualizar contas
+# Aprendi a usar exceções, classes e funções, além de boas práticas.
